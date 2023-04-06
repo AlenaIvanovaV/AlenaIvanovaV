@@ -37,18 +37,11 @@
 ## Тестирование UI
 :link: Тестовый проект: <a target="_blank" href="https://github.com/AlenaIvanovaV/dz_9_22.git">test_demoqa_api</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI на сайт https://demoqa.com/forms </br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Page Object
-- [x] Параметризованная сборка
+:triangular_flag_on_post
 
 
 ## Тестирование REST API
 :link: Тестовый проект: <a target="_blank" href="https://github.com/AlenaIvanovaV/dzrest.git">test_demoshop_api</a></br></br>
 :heavy_check_mark: Реализованы автотесты Rest Api на reqres.in и demowebshop.tricentis.com.</br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Инкапсулирована обращение к URL
-- [x] Шаблоны форматирования логов запросов
-- [x] Проверка ответа сайта через Shema
+:triangular_flag_on_post.
 
