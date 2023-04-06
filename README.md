@@ -10,11 +10,8 @@
   Email: ivanova_av10@gmail.com
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/edbeg1337"><img width="37px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/></a>
+  <a href="https://t.me/iav_alena"><img width="37px" alt="Telegram" title="Telegram" src="./images/icons/Telegram.svg"/></a>
   &#8287;
-  <a href="https://vk.com/churka46"><img width="32px" alt="VK" title="Vk" src="./images/icons/vk.png"/></a>
-  &#8287;
-
 </p>
 
 ## 💻Стек и инструменты
@@ -38,18 +35,16 @@
 </p>
 
 ## Тестирование UI
-:link: Тестовый проект: <a target="_blank" href="https://github.com/AsadKasimov/head_hunter_web">head_hunter_web</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/AlenaIvanovaV/dz_9_22.git</a></br></br>
 :heavy_check_mark: Реализованы автотесты UI на сайт онлайн-рекрутинг платформы hh.ru </br></br>
 :triangular_flag_on_post: Что особенного:
 
 - [x] Page Object
 - [x] Параметризованная сборка
-- [x] Интеграция с Jira
-
 
 
 ## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/AsadKasimov/test_demoshop_api">test_demoshop_api</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/AlenaIvanovaV/dzrest.git">test_demoshop_api</a></br></br>
 :heavy_check_mark: Реализованы автотесты Rest Api на reqres.in и demowebshop.tricentis.com.</br></br>
 :triangular_flag_on_post: Что особенного:
 
@@ -57,11 +52,3 @@
 - [x] Шаблоны форматирования логов запросов
 - [x] Проверка ответа сайта через Shema
 
-## Тестирование мобильного приложения
-:link: Тестовый проект: <a target="_blank" href="https://github.com/AsadKasimov/head_hunter_mobile">head_hunter_mobile</a></br></br>
-:heavy_check_mark: Реализованы автотесты мобильного приложения hh.ru на эмуляторе мобильного устройства.</br></br>
-:triangular_flag_on_post: Что особенного:
-
-- [x] Интеграция с Browserstack
-- [x] Степовой подход для описания Allure Step
-- [x] Различные файлы конфигураций для запуска тестов
