@@ -44,7 +44,7 @@
 
 
 ## Тестирование REST API
-:link: Тестовый проект: <a target="_blank" href="https://github.com/AlenaIvanovaV/dzrest.git">test_demoshop_api</a></br></br>
+:link: Тестовый проект: <a target="_blank" href="https://github.com/AlenaIvanovaV/dzrest.git>test_demoshop_api</a></br></br>
 :heavy_check_mark: Реализованы автотесты Rest Api на reqres.in и demowebshop.tricentis.com.</br></br>
 :triangular_flag_on_post: Что особенного:
 
