@@ -2,7 +2,7 @@
 Меня зовут Алена. И я - инженер по тестированию программного обеспечения.</br>
 
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AsadKasimov
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlenaIvanovaV
 )](https://github.com/GithubRedMouth/github-readme-stats)
 
 - Контакты:
